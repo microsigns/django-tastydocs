@@ -7,6 +7,7 @@ Build-Depends: debhelper, python-support
 
 Package: python-django-tastydocs
 Architecture: all
-Depends: ${python:Depends}, python-support, python-django-tastypie
+Depends: ${python:Depends}, python-support, python-django-tastypie,
+ python-django-jsonfield, python-django-chocolate
 Provides: ${python:Provides}
 Description: Useful tools for developing REST services with django-tastypie.
