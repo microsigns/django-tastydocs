@@ -1,0 +1,5 @@
+python-django-tastydocs (0.1.0-0) testing; urgency=low
+
+  * Initial Debian package
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Tue,  9 Oct 2012 11:53:00 +0200
